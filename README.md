@@ -72,6 +72,7 @@ Retorne apenas o código completo do arquivo index.html, sem explicações fora 
 
 ---
 
+
 ## Decisões Técnicas
 
 Apesar do enunciado mencionar HTML e CSS, foi necessário utilizar JavaScript para implementar funcionalidades dinâmicas como:
