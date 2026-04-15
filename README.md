@@ -69,9 +69,9 @@ Requisitos técnicos:
 
 Formato da resposta:
 Retorne apenas o código completo do arquivo index.html, sem explicações fora do código.
+```
 
 ---
-
 
 ## Decisões Técnicas
 
